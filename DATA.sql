@@ -1,0 +1,60 @@
+INSERT INTO member VALUES(NULL, 'John', 'Williams', 'j');
+INSERT INTO member VALUES(NULL, 'Angela', 'Hart', 's');
+INSERT INTO member VALUES(NULL, 'Susan', 'Smith', 's');
+INSERT INTO member VALUES(NULL, 'Fred', 'Coulson', 'j');
+INSERT INTO member VALUES(NULL, 'Dave', 'Davison', 's');
+INSERT INTO member VALUES(NULL, 'Bailey', 'Brown', 'j');
+INSERT INTO member VALUES(NULL, 'Albert', 'Arnold', 's');
+INSERT INTO member VALUES(NULL, 'Neil', 'Meyer', 's');
+INSERT INTO member VALUES(NULL, 'Matilda', 'Stephens', 'j');
+INSERT INTO member VALUES(NULL, 'Shannon', 'Shaw', 'j');
+
+INSERT INTO series VALUES(NULL, 'Norfolk Seniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Seniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Juniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Juniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Seniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Juniors', '2019');
+INSERT INTO series VALUES(NULL, 'Norfolk Seniors', '2019');
+
+INSERT INTO race VALUES(NULL, 5, 'Bungay 5K', '2019-04-14');
+INSERT INTO race VALUES(NULL, 4, 'Bungay 10K', '2019-04-13');
+INSERT INTO race VALUES(NULL, 7, 'Bungay 15K', '2019-04-10');
+INSERT INTO race VALUES(NULL, 7, 'Norwich 5K', '2019-04-04');
+INSERT INTO race VALUES(NULL, 6, 'Norwich 10K', '2019-04-01');
+INSERT INTO race VALUES(NULL, 3, 'Norwich 15K', '2019-04-20');
+INSERT INTO race VALUES(NULL, 2, 'Norfolk 5K', '2019-04-05');
+INSERT INTO race VALUES(NULL, 1, 'Norfolk 10K', '2019-04-15');
+INSERT INTO race VALUES(NULL, 2, 'Norfolk 15K', '2019-04-06');
+
+INSERT INTO competitor VALUES(NULL, 1, 9, '4');
+INSERT INTO competitor VALUES(NULL, 8, 5, '1');
+INSERT INTO competitor VALUES(NULL, 5, 3, '2');
+INSERT INTO competitor VALUES(NULL, 3, 1, '3');
+INSERT INTO competitor VALUES(NULL, 4, 6, '5');
+INSERT INTO competitor VALUES(NULL, 7, 4, '4');
+INSERT INTO competitor VALUES(NULL, 1, 2, '5');
+INSERT INTO competitor VALUES(NULL, 2, 7, '3');
+INSERT INTO competitor VALUES(NULL, 9, 8, '1');
+
+INSERT INTO course VALUES(NULL, 'Inland Touring', '3');
+INSERT INTO course VALUES(NULL, 'Open Canoeing', '2');
+INSERT INTO course VALUES(NULL, 'Canoe Slalom', '3');
+INSERT INTO course VALUES(NULL, 'Canoe Sprint', '1');
+INSERT INTO course VALUES(NULL, 'Canoe Maranthon', '4');
+INSERT INTO course VALUES(NULL, 'Canoe Surf', '4');
+INSERT INTO course VALUES(NULL, 'Canoe Polo', '1');
+INSERT INTO course VALUES(NULL, 'Canoe Freestyle', '2');
+INSERT INTO course VALUES(NULL, 'White Water Rafting', '2');
+INSERT INTO course VALUES(NULL, 'Wild Water Racing', '4');
+INSERT INTO course VALUES(NULL, 'Outrigger Canoeing', '2');
+INSERT INTO course VALUES(NULL, 'International Sailing', '3');
+INSERT INTO course VALUES(NULL, 'Ocean Racing', '4');
+
+INSERT INTO enrolment VALUES(NULL, 9, 13);
+INSERT INTO enrolment VALUES(NULL, 6, 1);
+INSERT INTO enrolment VALUES(NULL, 3, 5);
+INSERT INTO enrolment VALUES(NULL, 4, 10);
+INSERT INTO enrolment VALUES(NULL, 1, 8);
+INSERT INTO enrolment VALUES(NULL, 7, 6);
+INSERT INTO enrolment VALUES(NULL, 2, 12);
